@@ -1,4 +1,4 @@
-# Public Policy Topic List ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+# Public Policy ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ---
 ## 1. Foundations of Public Policy
